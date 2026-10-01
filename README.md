@@ -1,2 +1,2 @@
 # Barber
-This is barber web using HTML/CSS.
+This is barber webpage using HTML/CSS.
